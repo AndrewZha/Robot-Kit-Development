@@ -14,23 +14,21 @@
 
 ## 🧠 Key Features
 - 🔹 Gripper Part
-  - 🔹Gripper actuated by a string; part is printed in one whole piece with compliant joints
-    [![Gripper preview](images/Gripper%20Preview.png)](STL/Gripper.stl)
+  - 🔹Gripper actuated by a string; part is printed in one whole piece with compliant joints (image links to STL preview)
+    [![Gripper preview](images/Gripper%20Preview.png)](STL/Gripper.STL)
 - 🔹 Hook Parts
   - 🔹Carabiner-lock design; part is also printed in whole piece with compliant joints
     [![Hook preview](images/Hook%20Preview.png)](STL/Hook1.STL)
-  - 🔹Optional two-part print for cleaner print job, but requires screw to attach hook
-    - 🔹Various configurations are set up in MODCAP+Hooks.SLDASM file as ASSM Configurations
-      - 🔹Carabiner Hook on Cap
-      - 🔹Carabiner Hook (heat-set)
-      - 🔹Cap (heat-set)
   - 🔹Parahook
     - 🔹Concept is the same as the carabiner, but attached to the side of the cap instead of on top.  
+    [![Parahook preview](images/Parahook%20Preview.png)](STL/Hook2.STL)
 - 🔹 Pulley Part
   - 🔹Functional pulley; part is printed in three pieces with snap-in-place assembly
   - 🔹Two configurations in Solidworks ASSM:
     - 🔹Pulley with Crank Handle
+    [![Pulley preview](images/Pulley%20Preview.png)](STL/Pulley.STL)
     - 🔹Pulley without Handle
+    [![Wheel preview](images/Wheel%20Preview.png)](STL/Wheel.STL)
 
 ---
 
