@@ -15,8 +15,10 @@
 ## 🧠 Key Features
 - 🔹 Gripper Part
   - 🔹Gripper actuated by a string; part is printed in one whole piece with compliant joints
+    [![Gripper preview](images/Gripper%20Preview.png)](STL/Gripper.stl)
 - 🔹 Hook Parts
-  - 🔹More of a carabiner than a hook; part is also printed in whole piece with compliant joints
+  - 🔹Carabiner-lock design; part is also printed in whole piece with compliant joints
+    [![Hook preview](images/Hook%20Preview.png)](STL/Hook1.STL)
   - 🔹Optional two-part print for cleaner print job, but requires screw to attach hook
     - 🔹Various configurations are set up in MODCAP+Hooks.SLDASM file as ASSM Configurations
       - 🔹Carabiner Hook on Cap
